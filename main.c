@@ -9,7 +9,7 @@ int check_connection()
 	 * otherwise -1
 	 */
 	
-	return -1;
+	return 1;
 }
 
 
