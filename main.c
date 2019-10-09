@@ -8,8 +8,8 @@ int check_connection()
 	/* Returns 0 if connection is established,
 	 * otherwise -1
 	 */
-
-
+	
+	return -1;
 }
 
 
