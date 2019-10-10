@@ -5,4 +5,4 @@ A tool to automatically re-establish the authetication required by Students-N ne
 ## Requirements
 * `nmcli` - command-line tool for controlling NetworkManager.
 For installation, (in Ubuntu)
-`sudo apt install nmcli`
+`sudo apt install network-manager`
