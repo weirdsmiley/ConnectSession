@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if  hashcash -v > /dev/null 2>&1
+if  nmcli -v > /dev/null 2>&1
 then
-	echo "Done!\n"
+	echo "Up-to-date!"
 else
-	sudo apt install nmcli
+	sudo apt install network-manager
 fi
