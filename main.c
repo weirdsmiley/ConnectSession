@@ -7,12 +7,7 @@
 int grepLoss()
 {
 	// returns : 0 if finds, -1 if doesn't
-	
-
-	
-
-
-
+	return 0;
 }
 
 int check_connection()
